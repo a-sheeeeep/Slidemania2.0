@@ -5,11 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K-JPG_Color.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K-JPG_Displacement.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K-JPG_Roughness.uasset",
 				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Grey.umap",
-				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/Player/Script/Player_Blueprint.uasset",
 				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/Player/Script/Character_attempt.uasset",
-				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Gamemode.uasset",
-				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/MYGamemode.uasset"
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K-JPG_AmbientOcclusion.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K-JPG_NormalDX.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/asphalt026C_2k/Asphalt026C_2K_JPG.uasset",
+				"C:/Users/gusje/Github/UE5/Slide/Slidemania2.0/Grey_Box/Slidemania_grey/Content/World/Grey/Materials/Ground048_4K-JPG/Ground048_4K_JPG.uasset"
 			]
 		}
 	]
